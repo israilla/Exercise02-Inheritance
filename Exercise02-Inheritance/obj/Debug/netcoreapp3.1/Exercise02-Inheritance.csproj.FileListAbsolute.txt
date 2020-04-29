@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.exe
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.deps.json
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.dll
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\bin\Debug\netcoreapp3.1\Exercise02-Inheritance.pdb
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\obj\Debug\netcoreapp3.1\Exercise02-Inheritance.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\obj\Debug\netcoreapp3.1\Exercise02-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\obj\Debug\netcoreapp3.1\Exercise02-Inheritance.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\obj\Debug\netcoreapp3.1\Exercise02-Inheritance.dll
+C:\Users\Israilla\source\repos\Exercise02-Inheritance\Exercise02-Inheritance\obj\Debug\netcoreapp3.1\Exercise02-Inheritance.pdb

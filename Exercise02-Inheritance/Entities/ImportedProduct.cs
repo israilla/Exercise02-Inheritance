@@ -27,7 +27,6 @@ namespace Exercise02_Inheritance.Entities
                 + " (Customs fee: $ "
                 + CustomsFee.ToString("F2", CultureInfo.InvariantCulture)
                 +")";
-
         }
     }
 }
